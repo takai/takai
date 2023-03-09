@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naoto Takai
 
-Hello, my name is Naoto Takai. I'm a seasoned technology professional with extensive experience in system integration, internet services, and fintech. Throughout my career, I've had the opportunity to work with various organizations and industries, helping them streamline their operations and improve their technological infrastructure.
+I'm a seasoned technology professional with extensive experience in system integration, internet services, and fintech. Throughout my career, I've had the opportunity to work with various organizations and industries, helping them streamline their operations and improve their technological infrastructure.
 
 ## 🚀 As a tech enthusiast
 
